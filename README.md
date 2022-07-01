@@ -83,10 +83,9 @@
   <a href="https://www.instagram.com/__thanh.binhh_/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="BevisDev-instagram" />
   </a>
-  <a href="mailto:trthanhbinh5720@gmail.com" target="top">
+  <a href="mailto:dev.binhtt@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="BevisDev-email" />
   </a>
-   - 📫 Mail: trthanhbinh5720@gmail.com
 </div>
 
 <br>
