@@ -19,12 +19,13 @@
 &nbsp; -->
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
+<!--
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
-&nbsp;
+&nbsp;  -->
 <span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
