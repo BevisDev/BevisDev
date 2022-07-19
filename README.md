@@ -11,8 +11,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=spring-boot&logoColor=6DB33F" alt="Spring Boot logo" title="SpringBoot" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Eclipse%20IDE-282C34?logo=eclipse-ide&logoColor=2C2255" alt="Eclipse IDE logo" title="EclipseIDE" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".NET" title=".NET" height="25" /></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
