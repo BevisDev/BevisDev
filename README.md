@@ -82,7 +82,7 @@
   <a href="https://www.facebook.com/BevisDev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="BevisDev-facebook" />
   </a>
-  <a href="https://www.instagram.com/__thanh.binhh_/" target="blank">
+  <a href="https://www.instagram.com/__tuitenbinh_/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="BevisDev-instagram" />
   </a>
   <a href="mailto:dev.binhtt@gmail.com" target="top">
